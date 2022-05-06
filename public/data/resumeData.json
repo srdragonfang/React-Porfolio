@@ -1,0 +1,97 @@
+{
+    "main": {
+        "info": [
+            {
+                "name": "S.R Dragonfang",
+                "email": "sr.dragonfang@hotmail.com",
+                "instagram": "https://www.instagram.com/srdragonfang",
+                "github": "https://www.github.com/srdragonfang",
+                "codepen": "https://www.codepen.com/srdragonfang"
+            }
+        ]
+    },
+    "portfolio": {
+        "introduce": [
+            {
+                "text": "Hi!"
+            },
+            {
+                "text": "I'm S.R Dragonfang. A creator, author and front-end developer. I love the creativity and beauty of art through letters and words."
+            },
+            {
+                "text": "I combine the best of our skills and ideas to present you products really worth your attention that will change the way you think about design, structure, color and website itself."
+            }
+        ],
+        "projects": {
+            "project": [
+                {
+                    "title": "Portfolio Website",
+                    "languages": "ReactJS",
+                    "image": "../assets/images/products/newspaper.jpg",
+                    "previewURL": "https://srdf-portfolio.web.app/",
+                    "sourceURL": ""
+                },
+                {
+                    "title": "Movie Website",
+                    "languages": "ReactJS",
+                    "image": "../assets/images/products/newspaper.jpg",
+                    "previewURL": "https://srdf-movie-website.web.app/",
+                    "sourceURL": "https://github.com/srdragonfang/React-movie-website"
+                },
+                {
+                    "title": "Newspaper Website",
+                    "languages": "HTML, CSS, JavaScript",
+                    "image": "https://cdn.pixabay.com/photo/2020/11/27/22/07/naruto-5783102_960_720.png",
+                    "previewURL": "",
+                    "sourceURL": "https://github.com/srdragonfang/Newspaper-website"
+                },
+                {
+                    "title": "CoffeeShop Website",
+                    "languages": "HTML, CSS, JavaScript",
+                    "image": "https://cdn.pixabay.com/photo/2020/11/27/22/07/naruto-5783102_960_720.png",
+                    "previewURL": "",
+                    "sourceURL": "https://github.com/srdragonfang/Coffee-website"
+                },
+                {
+                    "title": "New Year Countdown",
+                    "languages": "HTML, CSS, JavaScript",
+                    "image": "https://cdn.pixabay.com/photo/2020/11/27/22/07/naruto-5783102_960_720.png",
+                    "previewURL": "https://codepen.io/srdragonfang/pen/gOvaovq",
+                    "sourceURL": "https://github.com/srdragonfang/New-Year-Countdown"
+                },
+                {
+                    "title": "Music Player",
+                    "languages": "HTML, CSS, JavaScript",
+                    "image": "https://cdn.pixabay.com/photo/2020/11/27/22/07/naruto-5783102_960_720.png",
+                    "previewURL": "https://srdragonfang.github.io/Music-Player/",
+                    "sourceURL": "https://github.com/srdragonfang/Music-Player"
+                }
+            ]
+        },
+        "certificates": {
+            "frontEnd": [
+                {
+                    "title": "HTML Essential Training"
+                },
+                {
+                    "title": "CSS Essential Training"
+                },
+                {
+                    "title": "JavaScript Essential Training"
+                },
+                {
+                    "title": "SCSS Essential Training"
+                },
+                {
+                    "title": "Bootstrap Essential"
+                },
+                {
+                    "title": "TailwindCSS Essential"
+                },
+                {
+                    "title": "Github Essential Training The Basic"
+                }
+            ]
+        }
+    }
+}
