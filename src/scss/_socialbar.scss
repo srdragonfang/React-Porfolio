@@ -22,6 +22,7 @@
   }
   &-item a {
     color: inherit;
+    border: dashed 1px transparent;
 
     &:hover {
       border: dashed 1px goldenrod;

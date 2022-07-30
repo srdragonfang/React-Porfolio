@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import "./styles/index.css";
+import "./dist/index.css";
 import Banner from "./components/Banner";
 import Portfolio from "./components/Portfolio";
 import SocialBar from "./components/SocialBar";

@@ -19,24 +19,45 @@
                 "text": "I'm S.R Dragonfang. A creator, author and front-end developer. I love the creativity and beauty of art through letters and words."
             },
             {
-                "text": "I combine the best of our skills and ideas to present you products really worth your attention that will change the way you think about design, structure, color and website itself."
+                "text": ""
             }
         ],
         "projects": {
             "project": [
                 {
                     "title": "Portfolio Website",
-                    "languages": "ReactJS",
+                    "languages": "ReactJS, SCSS",
                     "image": "../assets/images/products/newspaper.jpg",
                     "previewURL": "https://srdf-portfolio.web.app/",
-                    "sourceURL": ""
+                    "sourceURL": "https://github.com/srdragonfang/React-Porfolio"
+                },
+                {
+                    "title": "Sokunmaru Desk",
+                    "languages": "ReactJS, SCSS, API",
+                    "image": "../assets/images/products/newspaper.jpg",
+                    "previewURL": "https://sokunmaru-desk.netlify.app/",
+                    "sourceURL": "https://github.com/srdragonfang/sokunmaru-desk"
                 },
                 {
                     "title": "Movie Website",
-                    "languages": "ReactJS",
+                    "languages": "ReactJS, CSS",
                     "image": "../assets/images/products/newspaper.jpg",
                     "previewURL": "https://srdf-movie-website.web.app/",
                     "sourceURL": "https://github.com/srdragonfang/React-movie-website"
+                },
+                {
+                    "title": "Movie Booking Seats",
+                    "languages": "HTML5, CSS3, Javascript",
+                    "image": "../assets/images/products/newspaper.jpg",
+                    "previewURL": "",
+                    "sourceURL": "https://github.com/srdragonfang/100-Vanilla-JS-Project/tree/master/1-apps/001-movie-seat-booking-done"
+                },
+                {
+                    "title": "Form Validate",
+                    "languages": "HTML5, CSS3, Javascript",
+                    "image": "../assets/images/products/newspaper.jpg",
+                    "previewURL": "",
+                    "sourceURL": ""
                 },
                 {
                     "title": "Newspaper Website",
@@ -47,7 +68,7 @@
                 },
                 {
                     "title": "CoffeeShop Website",
-                    "languages": "HTML, CSS, JavaScript",
+                    "languages": "HTML, SCSS, JavaScript",
                     "image": "https://cdn.pixabay.com/photo/2020/11/27/22/07/naruto-5783102_960_720.png",
                     "previewURL": "",
                     "sourceURL": "https://github.com/srdragonfang/Coffee-website"
@@ -83,10 +104,10 @@
                     "title": "SCSS Essential Training"
                 },
                 {
-                    "title": "Bootstrap Essential"
+                    "title": "Bootstrap Essential Training"
                 },
                 {
-                    "title": "TailwindCSS Essential"
+                    "title": "TailwindCSS Essential Trainings"
                 },
                 {
                     "title": "Github Essential Training The Basic"

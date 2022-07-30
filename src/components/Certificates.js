@@ -19,7 +19,7 @@ const Certificates = ({ data }) => {
         <div className="section-container">
           <div class="btn-effect-1 section-item-download">
             <a href="#contact-id" className="item-hide">
-              Download
+              Get CV
             </a>
             <ImCloudDownload className="item-icon" />
           </div>
